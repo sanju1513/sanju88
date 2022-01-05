@@ -1,0 +1,121 @@
+.circular--square { 
+  border-radius: 50%;
+  width: 250px;
+  height: 350px;
+ }
+
+body{
+  background-color: #A569BD
+}
+
+
+
+body h1 {
+  text-align: center;
+  font-family: cursive;
+  color: rgb(113, 233, 233);
+  size: 40px;
+}
+
+
+table td img{
+  border: none;
+  border-color: #A569BD;
+}  
+
+
+
+body h2{
+  font-family: cursive;
+  color: rgb(113, 233, 233)
+
+}
+body p{
+  text-align: center;
+  color: aqua;
+  
+}
+ul.center{
+  font-family: cursive;
+  color: rgb(113, 233, 233);
+  
+ 
+
+}
+hr{
+  border-style: none;
+  border-color: grey;
+
+
+}
+.top-icon{
+  display: block;
+  background-color:aqua;
+  height: 100px;
+  width: 1350px;
+  image-orientation: inherit;
+}
+div ul li{
+  align-content: right;
+
+}
+img{
+  
+  height: 100px;
+  width: 100px;
+  align-content: center;
+
+}
+table th{
+  
+  color: aqua;
+  height: 70px;
+  
+ }
+ 
+table td{
+ border: none; 
+ color: aqua;
+
+ 
+ 
+}
+table .center{
+  margin-left: auto; 
+  margin-right: auto;
+}
+div .topnav-right{
+  float:right;
+  font-size: 17px;
+
+}
+  /* styling navlist */
+  
+  #navlist{
+    background-color: #A569BD;
+    position: absolute;
+    width: 100%;
+    float: right;
+}
+.navlist-right{
+  float: left;;
+}
+.navlist a:hover {
+  background-color: #ddd;
+  color: black;
+
+}
+.mycontact body h1{
+  text-align: center;
+}
+  
+/**----style for mycontact.html---*/
+
+h1{
+  align : center;
+    color: brown;
+    font-family: cursive;
+
+}
+
+  
